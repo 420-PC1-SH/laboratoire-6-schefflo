@@ -54,7 +54,7 @@ jobs:
           args:
             # Unique keys of your project and organization. You can find them in SonarCloud > Information (bottom-left menu)
             # mandatory
-            -Dsonar.projectKey=420-pc1-sh_laboratoire-6-schefflo
+            -Dsonar.projectKey=420-PC1-SH_laboratoire-6-schefflo
             -Dsonar.organization=420-pc1-sh
             # Comma-separated paths to directories containing main source files.
             #-Dsonar.sources= # optional, default is project base directory
